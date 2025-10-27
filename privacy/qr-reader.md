@@ -69,7 +69,7 @@ OS 샌드박스 및 권한 기반 접근 통제 사용
 
 11. 연락처
 
-개인정보 관련 문의, 권리 행사 요청: support@mintcloud.com
+개인정보 관련 문의, 권리 행사 요청: MintCloudStu@gmail.com
 
 12. 정책 변경
 
